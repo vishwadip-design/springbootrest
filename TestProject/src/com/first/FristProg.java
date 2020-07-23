@@ -6,6 +6,7 @@ public class FristProg {
 		// TODO Auto-generated method stub
 
 		System.out.println("Hello World");
+		System.out.println("Have Good Day");
 	}
 
 }
